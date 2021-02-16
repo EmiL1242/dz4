@@ -1,0 +1,28 @@
+header {
+    background-color: lightblue;
+    padding: 20px;
+    margin: 10px;
+}
+
+header a {
+    border: 1px solid tomato;
+    background-color: tomato;
+    text-decoration: none;
+    padding: 5px;
+    text-align: left;
+}
+
+
+p  img{
+    width: 500px;
+    height: 400px;
+}
+
+footer {
+    background-color: lightblue;
+    padding: 10px;
+}
+
+footer p {
+    background-color: white;
+}
